@@ -12,7 +12,7 @@ The page will display the current time and day and the 8 hours of work for that 
 
 ![Alt text](image.png)
 
-Live Link: 
+Live Link: https://torresbones.github.io/workdayscheduler/
 
 ## License
 
